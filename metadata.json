@@ -1,0 +1,6 @@
+{
+  "name": "Mô phỏng Khoa học: Tính chất của Nước",
+  "description": "Ứng dụng mô phỏng 3D hỗ trợ giáo viên giảng dạy bài Tính chất của nước - Khoa học Lớp 4 (Hình dạng và Dòng chảy của nước).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
